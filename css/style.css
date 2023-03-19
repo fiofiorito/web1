@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Calibri, sans-serif;
+}
+
+.image-bg {
+    background-color: #C8B6A6;
+    background-image: url(../images/16108726557_35efe673b9_o.jpg);
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    background-blend-mode: multiply;
+    
+}
+
+.welcome{
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Varela Round', Calibri, sans-serif;
+    font-size: 0.875rem;
+}
+
+.Fio {
+    position: absolute;
+    top: 123px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    color: white;
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+.web-dev {
+    position: absolute;
+    top: 171px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Varela Round', Calibri, sans-serif;
+    font-size: 1.375rem;
+    padding: 10px;
+}
+
+.line1 {
+    color: white;
+    position: relative;
+    left: 2%;
+    display: inline-block;
+
+}
+
+.line2 {
+    color: white;
+    position: relative;
+    left: 97%;
+    display: inline-block;
+}
+
+.profile-pic {
+    width: 30%;
+
+}
+
+.gym {
+    width: 30%;
+}
+
+.coffee {
+    width: 30%;
+
+}
